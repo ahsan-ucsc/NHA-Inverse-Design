@@ -11,10 +11,6 @@ This repository contains the dataset and code for the study "Deep Learning-Drive
 
 Nanophotonic nanohole arrays (NHAs) are used in various applications for their versatile optical functionalities. This project leverages deep learning to optimize the design of NHAs, improving efficiency and accuracy. The forward model predicts transmission spectra from structural parameters, while the inverse model infers structural parameters from transmission spectra.
 
-## Usage
-
-1. **Dataset**: The dataset is located in the `data/` directory and includes all necessary structural parameters and transmission spectra used in the study.
-2. **Code**: The code for training and evaluating the models is located in the `src/` directory. 
 
 ## Data Availability
 
