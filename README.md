@@ -14,7 +14,7 @@ Nanophotonic nanohole arrays (NHAs) are used in various applications for their v
 
 ## Data Availability
 
-The dataset and code are available in this repository. For any specific inquiries or issues, please contact the corresponding author.
+The dataset and code are available in this repository. For any specific inquiries or issues, please contact the first author.
 
 
 ---
